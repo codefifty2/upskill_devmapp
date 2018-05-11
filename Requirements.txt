@@ -1,0 +1,5 @@
+Memberships
+* User should see link for Basic Plan on home page
+* User should see link for Pro Plan on home page
+* Basic Plan link should point to regular Devise sign up
+* Pro Plan link should point to a custom sign up form
