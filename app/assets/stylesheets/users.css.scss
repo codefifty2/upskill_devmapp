@@ -1,20 +1,33 @@
-.avatar-show-img {
-  width: 126px;
-  height: 126px;
-}
-
-.well.profile-block {
-  color: #fff;
-  h3 {
-    margin-top: 0;
+  .avatar-show-img {
+    width: 126px;
+    height: 126px;
   }
-}
+  
+  .job_title_icon {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border: 2px solid #2e6d04;
+    border-radius: 4px;
+    background-color: #337ab7;
+    color: white;
+    text-align: center;
+  }
+  
+  .well.profile-block {
+    color: #fff;
+    h3 {
+      margin-top: 0;
+    }
+  }
 
-.well.profile-description {
-  background-color: #5cb85c;
-  border-color: #4cae4c;
-}
-.well.profile-contact-info {
-  background-color: #5cb85c;
-  border-color: #4cae4c;
-} 
+  .well.profile-description {
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+  }
+  
+  .well.profile-contact-info {
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+  } 
+  
